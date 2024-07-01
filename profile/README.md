@@ -10,5 +10,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Main organization site is here, https://github.com/Pure-Computers/
+Main organization site is here, https://github.com/Pure-Comp
 This page is for temperary developments
